@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Mock Gram Aug 7th
+                    Mock Gram Aug 8th
                 </div>
 
                 <div class="links">

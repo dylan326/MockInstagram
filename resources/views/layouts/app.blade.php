@@ -29,7 +29,8 @@
 
                     <!-- Branding Image -->
                     <a class="navbar-brand" href="{{ url('/') }}">
-                        {{ config('app.name', 'Laravel') }}
+                      <div><img src="svg/freeCodeCampLogo.svg" alt=""></div>
+                        <div>mockInstagram</div>
                     </a>
                 </div>
 
