@@ -8,7 +8,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', 'Laravel') }}</title>
+    <title>mockInstagram</title>
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
@@ -29,8 +29,8 @@
 
                     <!-- Branding Image -->
                     <a class="navbar-brand" href="{{ url('/') }}">
-                      <div><img src="svg/freeCodeCampLogo.svg" alt=""></div>
-                        <div>mockInstagram</div>
+                      <div><img src="svg/freeCodeCampLogo.svg" style="height: 20px;" class="pr-3;">&nbsp; | mockInstagram</div>
+
                     </a>
                 </div>
 

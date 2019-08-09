@@ -1,23 +1,17 @@
+<link rel = "stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 @extends('layouts.app')
 
 @section('content')
 <div class="container">
-    <div class="row">
-        <div class="col-md-8 col-md-offset-2">
-            <div class="panel panel-default">
-                <div class="panel-heading">Dashboard</div>
+<div class = "row">
+  <div class="col-3 p-5">
+    <img src="https://image.freepik.com/free-photo/cityscape-icon-symbol-web-element_1150-1791.jpg" style="height: 350px; width: 350px;" class="rounded-circle" >
+  </div>
+  <div class="col-9">
 
-                <div class="panel-body">
-                    @if (session('status'))
-                        <div class="alert alert-success">
-                            {{ session('status') }}
-                        </div>
-                    @endif
+    <div><h1>mockInstagram</h1></div>
 
-                    You are logged in!
-                </div>
-            </div>
-        </div>
-    </div>
+  </div>
+</div>
 </div>
 @endsection
