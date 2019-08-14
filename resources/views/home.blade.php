@@ -25,13 +25,28 @@
 </div>
 <div class ="row pt-5">
   <div class="col-4">
-    <img src="https://scontent-lga3-1.cdninstagram.com/vp/eac0707297d29b2dfa40c303d449836d/5DC94098/t51.2885-15/e35/61555594_471501460067844_6848849947845320953_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com" class="w-100">
+    <img style= "height: 350px; width: 300px;" src="https://scontent-lga3-1.cdninstagram.com/vp/eac0707297d29b2dfa40c303d449836d/5DC94098/t51.2885-15/e35/61555594_471501460067844_6848849947845320953_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com" class="w-100">
   </div>
   <div class="col-4">
-    <img src="https://scontent-lga3-1.cdninstagram.com/vp/eac0707297d29b2dfa40c303d449836d/5DC94098/t51.2885-15/e35/61555594_471501460067844_6848849947845320953_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com" class="w-100">
+  <img style= "height: 350px; width: 300px;" src="https://scontent-lga3-1.cdninstagram.com/vp/00547feca9768b60823f9f8f88d11e7e/5E138B1A/t51.2885-15/e35/69095403_212234716426916_3447102072665452317_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com" class="w-100">
   </div>
   <div class="col-4">
-    <img src="https://scontent-lga3-1.cdninstagram.com/vp/eac0707297d29b2dfa40c303d449836d/5DC94098/t51.2885-15/e35/61555594_471501460067844_6848849947845320953_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com" class="w-100">
+  <img style= "height: 350px; width: 300px;" src="https://scontent-lga3-1.cdninstagram.com/vp/745313dc8d6fef482070abd51eee3040/5DE394A8/t51.2885-15/e35/67691728_433750673884849_8685861146630972849_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com" class="w-100">
+  </div>
+ 
+
+</div>
+
+<!--newrow-->
+<div class ="row pt-5">
+  <div class="col-4">
+    <img style= "height: 350px; width: 300px;" src="https://scontent-lga3-1.cdninstagram.com/vp/eac0707297d29b2dfa40c303d449836d/5DC94098/t51.2885-15/e35/61555594_471501460067844_6848849947845320953_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com" class="w-100">
+  </div>
+  <div class="col-4">
+  <img style= "height: 350px; width: 300px;" src="https://scontent-lga3-1.cdninstagram.com/vp/00547feca9768b60823f9f8f88d11e7e/5E138B1A/t51.2885-15/e35/69095403_212234716426916_3447102072665452317_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com" class="w-100">
+  </div>
+  <div class="col-4">
+  <img style= "height: 350px; width: 300px;" src="https://scontent-lga3-1.cdninstagram.com/vp/745313dc8d6fef482070abd51eee3040/5DE394A8/t51.2885-15/e35/67691728_433750673884849_8685861146630972849_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com" class="w-100">
   </div>
  
 
