@@ -18,6 +18,6 @@ Route::get('/', function () {
 Auth::routes();
 
 //erased route
-//Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/home', 'HomeController@index')->name('home');
 
 Route::get('/profile/{user}', 'ProfilesController@index')->name('profile.show');
